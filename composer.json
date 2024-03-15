@@ -21,7 +21,7 @@
         }
     },
     "require": {
-        "php": "^7.0 || ^8.0",
+        "php": ">=7.0",
         "ext-dom": "*",
         "kingson-de/marshal-serializer": "^1.3"
     },
